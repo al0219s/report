@@ -25,7 +25,7 @@ const reports = [
     date: "2026-06-29",
     result: "合格",
     items: ["硬度检测", "冲击试验", "尺寸检测"]
-}
+}，
 ];
 
 function getQuery(name){
