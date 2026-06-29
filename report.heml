@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>检测报告</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="box" id="app">
+  正在加载报告...
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
