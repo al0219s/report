@@ -17,6 +17,15 @@ const reports = [
     result: "合格",
     items: ["硬度检测", "冲击试验", "尺寸检测"]
   }
+  {
+    id: "LZ20260629003",
+    product: "矿用截齿",
+    model: "U47",
+    material: "42CrMo",
+    date: "2026-06-29",
+    result: "合格",
+    items: ["硬度检测", "冲击试验", "尺寸检测""尺寸检测""尺寸检测"]
+}
 ];
 
 function getQuery(name){
